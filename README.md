@@ -1,18 +1,18 @@
 <h2> Hello world! [EN]</h2>
-<p> Hello (<i>again</i>)! My name is Lucas, I'm 19 years old and I'm currently learning to code. I study at Alura (online study platform) and I am interested in Python, Linux and Java. </p>
+<p>My name is Lucas (him/his), I'm 19 years old, I'm learning to code at Alura online technology courses. I'm very interested in Python, Linux and Java.</p>
 
-<p> Currently, I am taking entrance exams for mathmatics and I really like to apply my knowledge in code.
- My last project was called "<i>calcformulas</i>" (<i>Calculating Physics Formulas [of High School] using forms</i> - <b>Showing calculations step by step!!</b>), I did it when I was 15 years old. Although it's currently out of the app store , it's available here: <br> https://sameapk.com/calcformulas/ </p>
+<p>My last project was "calcformulas" (<i>Calculator of physical formulas [from high school] by filling forms</i> - <b>Showing the calculation step by step</b>), I made when I was 15. Although it's out of the app shop, it's available at this link: <br>
+https://sameapk.com/calcformulas/ </p>
 
-<p>I'm looking to develop another personal project in order to challenge myself and put my knowledge to the test. I use GitHub to get in touch with those who know and, consequently, inspire me. </p>
+<p> I'm looking to develop another personal project in order to challenge myself and test my skills. I use GitHub to get in touch with people in the know and, consequently, get in touch with phenomenal projects.</p>
 </section>
 
 <section>
 <h2> Olá mundo! [PT-BR]</h2>
-<p> Oiê! Meu nome é Lucas, tenho 19 anos e atualmente estou aprendendo a codar. Estudo na Alura cursos online de tecnologia e tenho interesse em Python, Linux e Java.</p> 
-<p>Atualmente, sou vestibulando para matemática e gosto muito de aplicar meus conhecimentos em código. Meu último projeto foi o chamado "<i>calcformulas</i>" (<i>Calculadora de fórmulas físicas [do Ensino Médio] por meio de preenchimento  de formulários</i> - <b>Mostrando o cálculo passo-a-passo!! </b>), fiz quando tinha 15 anos. Apesar de estar atualmente fora da loja de apps, está disponível aqui: <br> https://sameapk.com/calcformulas/ </p>
+<p>Meu nome é Lucas (ele/dele), tenho 19 anos, estou aprendendo a codar na Alura cursos online de tecnologia. Tenho interesse em Python, Linux e Java.</p> 
+<p>Meu último projeto foi o “calcformulas”  (<i>Calculadora de fórmulas físicas [do Ensino Médio] por preenchimento  de formulários</i> — <b>Mostrando o cálculo passo a passo</b>), elaborado quando tinha 15 anos. Apesar de estar fora da loja de apps, está disponível neste link: <br> https://sameapk.com/calcformulas/ </p>
 
-<p>Estou procurando desenvolver outro projeto pessoal a fim de desafiar-me e por a prova meus conhcecimentos. Uso o GitHub para entrar em contato com quem sabe e, consequentemente, me inspirar. </p>
+<p>Estou a procura de desenvolver outro projeto pessoal de modo a desafiar-me e por a prova minhas habilidades. Uso o GitHub para entrar em contato com quem sabe e, consequentemente, ter contato com projetos fenomenais.</p>
 
  
 <p>Para mais informações sobre minha presença digital e projetos pessoais, acesse:<br> https://linktr.ee/lucasamtaylor</p>
