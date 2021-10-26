@@ -1,9 +1,4 @@
-<h1>Hello World!</h1>
-![Alt Text](https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b7611e98e986770dcb6e915f373e833ed3b4921a4ee3c&rid=giphy.gif&ct=g)
-
-<section>
 <h2> Hello world! [EN]</h2>
-
 <p> Hello (<i>again</i>)! My name is Lucas, I'm 19 years old and I'm currently learning to code. I study at Alura (online study platform) and I am interested in Python, Linux and Java. </p>
 
 <p> Currently, I am taking entrance exams for mathmatics and I really like to apply my knowledge in code.
@@ -25,4 +20,5 @@ My last project was called calcformulas (<i>Calculating Physics Formulas Using F
 
 <p> MAIS INFORMAÇÕES SOBRE PROJETOS PESSOAIS E MINHA PRESENÇA DIGITAL AQUI: <br> https://linktr.ee/lucasamtaylor </p>
  
-  É NOIZZZZZ ^^
+ <img src="https://media4.giphy.com/media/pO4UHglOY2vII/giphy.gif?cid=ecf05e479o0l8n09zeoqjx3zqloxh65hoo7yfozejgzqniyg&rid=giphy.gif&ct=g" width="192" height="144" class="center"/>
+ É NOIZZZZZ ^^
