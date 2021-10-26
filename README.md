@@ -10,7 +10,7 @@ My last project was called calcformulas (<i>Calculating Physics Formulas (of Hig
 <section>
 <h2> Olá mundo! [PT-BR]</h2>
 <p> Oiê! Meu nome é Lucas, tenho 19 anos e atualmente estou aprendendo a codar. Estudo na Alura cursos online de tecnologia e tenho interesse em Python, Linux e Java.</p> 
-<p>Atualmente, sou vestibulando para matemática e gosto muito de aplicar meus conhecimentos em código. Meu último projeto foi o chamado "<i>calcformulas</i>" (<i> Calculadora de fórmulas físicas do Ensino Médio através de formulários </i> - <b>Mostrando o cálculo passo-a-passo!! </b>), fiz quando tinha 15 anos. Apesar de estar atualmente fora da loja de apps, está disponível aqui: <br> https://sameapk.com/calcformulas/ </p>
+<p>Atualmente, sou vestibulando para matemática e gosto muito de aplicar meus conhecimentos em código. Meu último projeto foi o chamado "<i>calcformulas</i>" (<i> Calculadora de fórmulas físicas do Ensino Médio por meio de formulários </i> - <b>Mostrando o cálculo passo-a-passo!! </b>), fiz quando tinha 15 anos. Apesar de estar atualmente fora da loja de apps, está disponível aqui: <br> https://sameapk.com/calcformulas/ </p>
 
 <p>Estou procurando desenvolver outro projeto pessoal a fim de desafiar-me e por a prova meus conhcecimentos e uso o GitHub para entrar em contato com quem sabe e, consequentemente, me inspirar. </p>
 
