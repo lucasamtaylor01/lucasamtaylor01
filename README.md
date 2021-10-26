@@ -2,7 +2,7 @@
 <p> Hello (<i>again</i>)! My name is Lucas, I'm 19 years old and I'm currently learning to code. I study at Alura (online study platform) and I am interested in Python, Linux and Java. </p>
 
 <p> Currently, I am taking entrance exams for mathmatics and I really like to apply my knowledge in code.
-My last project was called "calcformulas" (<i>Calculating Physics Formulas [of High School] using forms</i> - <b>Showing calculations step by step!!</b>), I did it when I was 15 years old. Although it's currently out of the app store , it's available here: <br> https://sameapk.com/calcformulas/ </p>
+ My last project was called "<i>calcformulas</i>" (<i>Calculating Physics Formulas [of High School] using forms</i> - <b>Showing calculations step by step!!</b>), I did it when I was 15 years old. Although it's currently out of the app store , it's available here: <br> https://sameapk.com/calcformulas/ </p>
 
 <p>I'm looking to develop another personal project in order to challenge myself and put my knowledge to the test. I use GitHub to get in touch with those who know and, consequently, inspire me. </p>
 </section>
