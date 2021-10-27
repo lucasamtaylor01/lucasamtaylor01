@@ -9,7 +9,7 @@ https://sameapk.com/calcformulas/ </p>
 
 <section>
 <h2> Olá mundo! [PT-BR]</h2>
-<p>Meu nome é Lucas (ele/dele), tenho 19 anos, estou aprendendo a codar na Alura cursos online de tecnologia. Tenho interesse em Python, Linux e Java.</p> 
+<p>Meu nome é Lucas (ele/dele), tenho 19 anos e, atualmente, estou aprendendo a codar na Alura cursos online de tecnologia. Tenho interesse em Python, Linux e Java.</p> 
 <p>Meu último projeto foi o “calcformulas”  (<i>Calculadora de fórmulas físicas [do Ensino Médio] por preenchimento  de formulários</i> — <b>Mostrando o cálculo passo a passo</b>), elaborado quando tinha 15 anos. Apesar de estar fora da loja de apps, está disponível neste link: <br> https://sameapk.com/calcformulas/ </p>
 
 <p>Estou a procura de desenvolver outro projeto pessoal de modo a desafiar-me e por a prova minhas habilidades. Uso o GitHub para entrar em contato com quem sabe e, consequentemente, ter contato com projetos fenomenais.</p>
