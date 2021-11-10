@@ -14,10 +14,6 @@ https://sameapk.com/calcformulas/ </p>
 
 <p>Estou a procura de desenvolver outro projeto pessoal de modo a desafiar-me e por a prova minhas habilidades. Uso o GitHub para entrar em contato com quem sabe e, consequentemente, ter contato com projetos fenomenais.</p>
 
- 
-<p>Para mais informações sobre minha presença digital e projetos pessoais, acesse:<br> https://linktr.ee/lucasamtaylor</p>
- </section>
-  
- // É NOIZZZZZ ^^ <br>
+ <p> // É NOIZZZZZ ^^</p>
  <img src="https://media4.giphy.com/media/pO4UHglOY2vII/giphy.gif?cid=ecf05e479o0l8n09zeoqjx3zqloxh65hoo7yfozejgzqniyg&rid=giphy.gif&ct=g" width="240" height="180" class="center"/>
 
