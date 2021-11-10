@@ -1,5 +1,5 @@
 <h2> Hello world! [EN]</h2>
-<p>My name is Lucas (him/his), I'm 19 years old, I'm learning to code at Alura online technology courses. I'm very interested in Linux and Java.</p>
+<p>My name is Lucas (he/his), I'm 19 years old, I'm learning to code at Alura online technology courses. I'm very interested in Linux and Java.</p>
 
 <p>My last project was "calcformulas" (<i>Calculator of physical formulas [of high school] by filling forms</i> - <b>Showing the calculation step by step</b>), I made when I was 15. Although it's out of the app shop, it's available at this link: <br>
 https://sameapk.com/calcformulas/ </p>
