@@ -1,4 +1,4 @@
-<h2> Hello world! [EN]</h2>
+<h2> Hello, world! [EN]</h2>
 <p>My name is Lucas (he/his), I'm 19 years old, I'm learning to code at Alura online technology courses. I'm very interested in Linux and Java.</p>
 
 <p>My last project was "calcformulas" (<i>Calculator of physical formulas [of high school] by filling forms</i> - <b>Showing the calculation step by step</b>), I made when I was 15. Although it's out of the app shop, it's available at this link: <br>
@@ -8,7 +8,7 @@ https://sameapk.com/calcformulas/ </p>
 </section>
 
 <section>
-<h2> Olá mundo! [PT-BR]</h2>
+<h2> Olá, mundo! [PT-BR]</h2>
 <p>Meu nome é Lucas (ele/dele), tenho 19 anos e, atualmente, estou aprendendo a codar na Alura cursos online de tecnologia. Tenho interesse em Linux e Java.</p> 
 <p>Meu último projeto foi o “calcformulas”  (<i>Calculadora de fórmulas físicas [do Ensino Médio] por preenchimento  de formulários</i> — <b>Mostrando o cálculo passo a passo</b>), elaborado quando tinha 15 anos. Apesar de estar fora da loja de apps, está disponível neste link: <br> https://sameapk.com/calcformulas/ </p>
 
