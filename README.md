@@ -4,7 +4,7 @@
 <p>My last project was "calcformulas" (<i>Calculator of physical formulas [of high school] by filling forms</i> - <b>Showing the calculation step by step</b>), I made when I was 15. Although it's out of the app shop, it's available at this link: <br>
 https://sameapk.com/calcformulas/ </p>
 
-<p> I'm looking to develop another personal project in order to challenge myself and test my skills. I use GitHub to get in touch with people in the know and, consequently, get in touch with phenomenal projects.</p>
+<p> I'm looking to develop another personal project in order to challenge myself and test my skills. I use GitHub to get in touch with people in the know and, consequently, get in touch with amazing projects.</p>
 </section>
 
 <section>
