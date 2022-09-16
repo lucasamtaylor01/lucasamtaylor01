@@ -1,18 +1,16 @@
-<h2> Hello, world! [EN]</h2>
-<p>My name is Lucas (he/his), I'm 19 years old, I study applied and computational mathematics at the University of São Paulo (USP) and  I'm learning to code at Alura online technology courses. I'm very interested in Linux, Python and Java.</p>
-
-<p>My last project was "calcformulas" (<i>Calculator of physical formulas [of high school] by filling forms</i> - <b>Showing the calculation step by step</b>), I made when I was 15. Although it's out of the app shop, it's available at this link: <br>
-https://sameapk.com/calcformulas/ </p>
-
-<p> I'm looking to develop another personal project in order to challenge myself and test my skills. I use GitHub to get in touch with people in the know and, consequently, get in touch with amazing projects.</p>
+<section>
+<h2>Hello world! [EN-US] </h2>
+<p>My name is Lucas Amaral Taylor. I'm 19 years old and I'm graduating from the Applied and Computational Mathematics course at the University of São Paulo (USP). I'm learning C, Python and Java and have a keen interest in Linux.</p>
+  <p>I'm on github to record my evolution in the study of programming and to get in touch with phenomenal projects and sensational people present on this platform.</p>
+  <p> If you want to get in touch, my email is: lucasamtaylor@protonmail.com. </p>
 </section>
 
 <section>
-<h2> Olá, mundo! [PT-BR]</h2>
-<p>O meu nome é Lucas (he/his), tenho 19 anos, estudo matemática aplicada e computacional na Universidade de São Paulo (USP) e estou a aprender a codificar nos cursos de tecnologia on-line da Alura. Estou muito interessado em Linux, Python e Java.</p>
-<p>Meu último projeto foi o “calcformulas”  (<i>Calculadora de fórmulas físicas [do Ensino Médio] por preenchimento  de formulários</i> — <b>Mostrando o cálculo passo a passo</b>), elaborado quando tinha 15 anos. Apesar de estar fora da loja de apps, está disponível neste link: <br> https://sameapk.com/calcformulas/ </p>
-
-<p>Estou a procura de desenvolver outro projeto pessoal de modo a desafiar-me e por a prova minhas habilidades. Uso o GitHub para entrar em contato com quem sabe e, consequentemente, ter contato com projetos fenomenais.</p>
-
- <img src="https://media4.giphy.com/media/pO4UHglOY2vII/giphy.gif?cid=ecf05e479o0l8n09zeoqjx3zqloxh65hoo7yfozejgzqniyg&rid=giphy.gif&ct=g" width="240" height="180" class="center"/>
+ <h2>Olá mundo! [PT-BR] </h2>
+<p>Meu nome é Lucas Amaral Taylor. Tenho 19 anos e sou graduando no curso de Matemática aplicada e computacional da Universidade de São Paulo (USP). Estou aprendendo C, Python e Java e tenho um grande interesse por Linux.</p>
+ <p>Estou no github para registrar a minha evolução no estudo de programação e para ter contato com projetos fenomenais e pessoas sensacionais presentes nesta plataforma.</p>
+ <p> Caso queira entrar em contato, meu e-mail é: lucasamtaylor@protonmail.com. </p>
+ 
+ <i>"O Binômio de Newton é tão belo como a Vênus de Milo. O que há é pouca gente para dar por isso." </i>
+<img src="https://media4.giphy.com/media/pO4UHglOY2vII/giphy.gif?cid=ecf05e479o0l8n09zeoqjx3zqloxh65hoo7yfozejgzqniyg&rid=giphy.gif&ct=g" width="240" height="180" class="center"/>
 
