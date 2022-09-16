@@ -1,15 +1,12 @@
-<section>
-<h2>Hello world! [EN-US] </h2>
-<p>My name is Lucas Amaral Taylor. I'm 19 years old and I'm graduating from the Applied and Computational Mathematics course at the University of São Paulo (USP). I'm learning C, Python and Java and have a keen interest in Linux.</p>
-  <p>I'm on github to record my evolution in the study of programming and to get in touch with phenomenal projects and amazing people present on this platform.</p>
-  <p> If you want to get in touch, my email is: lucasamtaylor@protonmail.com. </p>
-</section>
+## Hello world! [EN-US] 
+My name is Lucas Amaral Taylor. I'm 19 years old and I'm graduating from the Applied and Computational Mathematics course at the University of São Paulo (USP). I'm learning C, Python and Java and have a keen interest in Linux. I'm on github to record my evolution in the study of programming and to get in touch with phenomenal projects and amazing people present on this platform.
+ If you want to get in touch, my email is: lucasamtaylor@protonmail.com. 
 
-<section>
- <h2>Olá mundo! [PT-BR] </h2>
-<p>Meu nome é Lucas Amaral Taylor. Tenho 19 anos e sou graduando no curso de Matemática aplicada e computacional da Universidade de São Paulo (USP). Estou aprendendo C, Python e Java e tenho um grande interesse por Linux.</p>
- <p>Estou no github para registrar a minha evolução no estudo de programação e para ter contato com projetos fenomenais e pessoas incríveis presentes nesta plataforma.</p>
- <p> Caso queira entrar em contato, meu e-mail é: lucasamtaylor@protonmail.com. </p>
+
+## Olá mundo! [PT-BR]
+Meu nome é Lucas Amaral Taylor. Tenho 19 anos e sou graduando no curso de Matemática aplicada e computacional da Universidade de São Paulo (USP). Estou aprendendo C, Python e Java e tenho um grande interesse por Linux.
+Estou no github para registrar a minha evolução no estudo de programação e para ter contato com projetos fenomenais e pessoas incríveis presentes nesta plataforma.
+Caso queira entrar em contato, meu e-mail é: lucasamtaylor@protonmail.com
  
  <i>"O Binômio de Newton é tão belo como a Vênus de Milo. O que há é pouca gente para dar por isso." </i>
  <br>
