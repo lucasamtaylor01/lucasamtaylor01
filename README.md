@@ -12,5 +12,6 @@
  <p> Caso queira entrar em contato, meu e-mail é: lucasamtaylor@protonmail.com. </p>
  
  <i>"O Binômio de Newton é tão belo como a Vênus de Milo. O que há é pouca gente para dar por isso." </i>
+ <br>
 <img src="https://media4.giphy.com/media/pO4UHglOY2vII/giphy.gif?cid=ecf05e479o0l8n09zeoqjx3zqloxh65hoo7yfozejgzqniyg&rid=giphy.gif&ct=g" width="240" height="180" class="center"/>
 
