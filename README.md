@@ -1,9 +1,9 @@
 ## Hello world! [EN-US] 
-My name is Lucas Amaral Taylor. I'm 20 years old and I'm graduating from the Applied and Computational Mathematics course at the University of São Paulo (USP). I'm learning Python and Java and have a keen interest in Linux. I'm on github to record my evolution in the study of programming and to get in touch with phenomenal projects and amazing people present on this platform.
+My name is Lucas Amaral Taylor. I'm 20 years old and I'm graduating from the Applied and Computational Mathematics course at the University of São Paulo (USP). I'm learning Python and have a keen interest in Linux. I'm on github to record my evolution in the study of programming and to get in touch with phenomenal projects and amazing people present on this platform.
 
 
 ## Olá mundo! [PT-BR]
-Meu nome é Lucas Amaral Taylor. Tenho 20 anos e sou graduando no curso de Matemática aplicada e computacional da Universidade de São Paulo (USP). Estou aprendendo Python e Java e tenho um grande interesse por Linux.
+Meu nome é Lucas Amaral Taylor. Tenho 20 anos e sou graduando no curso de Matemática aplicada e computacional da Universidade de São Paulo (USP). Estou aprendendo Python e tenho um grande interesse por Linux.
 Estou no github para registrar a minha evolução no estudo de programação e para ter contato com projetos fenomenais e pessoas incríveis presentes nesta plataforma.
  
  <i>"O Binômio de Newton é tão belo como a Vênus de Milo. O que há é pouca gente para dar por isso." </i>
