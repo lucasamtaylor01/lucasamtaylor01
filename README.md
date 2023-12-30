@@ -8,8 +8,9 @@ My name is Lucas Amaral Taylor. I'm 21 years old and I'm graduating from the App
 
 Meu nome é Lucas Amaral Taylor. Tenho 21 anos e sou graduando no curso de Matemática Aplicada e Computacional da Universidade de São Paulo (USP). Estou aprendendo Python e tenho um grande interesse por Linux. Estou no GitHub para registrar a minha evolução no estudo de programação e para ter contato com projetos fenomenais e pessoas incríveis presentes nesta plataforma.
 
-> "O Binômio de Newton é tão belo como a Vênus de Milo. O que há é pouca gente para dar por isso." - Fernando Pessoa
-
 <p align="center">
   <img src="https://media4.giphy.com/media/pO4UHglOY2vII/giphy.gif?cid=ecf05e479o0l8n09zeoqjx3zqloxh65hoo7yfozejgzqniyg&rid=giphy.gif&ct=g" width="240" height="180">
 </p>
+
+> "O Binômio de Newton é tão belo como a Vênus de Milo. O que há é pouca gente para dar por isso."
+- Fernando Pessoa
