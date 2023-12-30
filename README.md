@@ -13,4 +13,4 @@ Meu nome é Lucas Amaral Taylor. Tenho 21 anos e sou graduando no curso de Matem
 </p>
 
 > "O Binômio de Newton é tão belo como a Vênus de Milo. O que há é pouca gente para dar por isso."
-- Fernando Pessoa
+Fernando Pessoa
