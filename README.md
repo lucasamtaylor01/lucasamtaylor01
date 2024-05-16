@@ -1,6 +1,6 @@
 # Hello, world! 🌎 [EN-US]
 
-My name is Lucas Amaral Taylor. I'm 21 years old and I'm graduating from the Applied and Computational Mathematics course at the University of São Paulo (USP). I'm learning Go and have a keen interest in Linux. I'm on GitHub to record my evolution in the study of programming and to get in touch with phenomenal projects and amazing people present on this platform.
+My name is Lucas Amaral Taylor. I'm 21 years old and I'm an ungraduated student from the Applied and Computational Mathematics course at the University of São Paulo (USP). I'm learning Go and have a keen interest in Linux. I'm on GitHub to record my evolution in the study of programming and to get in touch with phenomenal projects and amazing people present on this platform.
 
 ---
 
