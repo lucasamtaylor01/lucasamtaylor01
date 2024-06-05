@@ -14,3 +14,21 @@ Meu nome é Lucas Amaral Taylor. Tenho 21 anos e sou graduando no curso de Matem
 
 *"There are two ways to do good maths. The first is to be smarter than everyone else. The second way is to be stupider than everyone else - but persistent."*  
 
+---
+## 100 days progress
+✅✅✅✅✅✅✅✅✅✅
+✅✅✅✅✅✅✅✅✅✅
+✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+
+## Attempt Status
+  - **Current Streak:** 24 days 🌟
+  - **Best Record:** 24 days 🏆
+  - **Current Attempt:** 2 🎯
+  - **Failed Attempts:** 1 🚫
