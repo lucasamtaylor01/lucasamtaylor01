@@ -16,7 +16,7 @@ Meu nome é Lucas Amaral Taylor. Tenho 21 anos e sou graduando no curso de Matem
 
 ---
 ## 100 days progress
-✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
@@ -28,6 +28,6 @@ Meu nome é Lucas Amaral Taylor. Tenho 21 anos e sou graduando no curso de Matem
 ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
 ## Attempt Status
-  - **Current Streak:** 2 days 🌟
-  - **Current Attempt:** 4 🎯
+  - **Current Streak:** 1 days 🌟
+  - **Current Attempt:** 5 🎯
   - **Best Record:** 31 days 🏆
