@@ -17,7 +17,7 @@ My name is Lucas Amaral Taylor. I'm 21 years old and I'm an ungraduated student 
 
 ---
 ## 100 days progress
-✅✅✅✅✅✅✅✅⬜️⬜️
+⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
@@ -29,6 +29,6 @@ My name is Lucas Amaral Taylor. I'm 21 years old and I'm an ungraduated student 
 ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
 ## Attempt Status
-  - **Current Streak:** 7 days 🌟
-  - **Current Attempt:** 6 🎯
+  - **Current Streak:** 0 days 🌟
+  - **Current Attempt:** 7 🎯
   - **Best Record:** 31 days 🏆
