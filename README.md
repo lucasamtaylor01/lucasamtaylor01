@@ -7,6 +7,17 @@
 - 😄 **Pronouns:** He/Him.
 - ⚡ **Languages:** Python.
 
+# Olá, mundo! 🌍
+
+- 🔭 **Atualmente trabalhando em:** Projetos matemáticos e computacionais como parte dos meus estudos de graduação.
+- 👯 **Interessado em colaborar em:** Iniciativas open-source e desafios matemáticos.
+- 💬 **Pergunte-me sobre:** Python, Linux e cultura open-source.
+- 📫 **Como me encontrar:** Você pode me encontrar através dos links nas redes sociais acima.
+- 😄 **Pronomes:** Ele/Dele.
+- ⚡ **Linguagens:** Python.
+
+---
+
 <p align="center">
     <img src="https://views.whatilearened.today/views/github/lucasamtaylor01/views.svg" alt="GitHub Views"/>
     <a href="https://github.com/lucasamtaylor01/">
@@ -24,9 +35,13 @@
     <img src="https://img.shields.io/badge/Os-Debian-a80030" alt="Debian"/>
 </p>
 
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=lucasamtaylor01&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="GitHub Stats"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lucasamtaylor01" alt="Top Languages"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=lucasamtaylor01&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="GitHub Stats"/>
+    </td>
+    <td align="center" style="width: 50%;">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lucasamtaylor01" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
