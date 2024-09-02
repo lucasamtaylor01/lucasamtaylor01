@@ -1,20 +1,22 @@
-# Hello, world! 🌍
+# Hello, World! 🌎
+- 🧑🏽‍🎓 **Undergraduate Program:** Applied and Computational Mathematics - Institute of Mathematics and Statistics at the University of São Paulo (IME-USP)
+- 🎯 **Current Focus:** Exploring mathematical projects as part of my undergraduate studies.
+- 🤝 **Open to Collaborations in:** Open-source projects and mathematical challenges.
+- 🗣️ **Knowledge in:** Python, Linux, and open-source tools.
+- 📧 **Contact Me:** Reach out through the links on my profile's social media.
+- 🌟 **Pronouns:** He/Him.
+- 💻 **Programming Languages:** Python.
 
-- 🔭 **Currently working on:** Mathematical and computational projects as part of my undergraduate studies.
-- 👯 **Looking to collaborate on:** Open-source initiatives and mathematical challenges.
-- 💬 **Ask me about:** Python, Linux, and open-source culture.
-- 📫 **How to reach me:** You can reach me from the social media links above.
-- 😄 **Pronouns:** He/Him.
-- ⚡ **Languages:** Python.
-
+- 
 # Olá, mundo! 🌍
+- 🧑🏽‍🎓 **Curso de graduação:** Matemática Aplicada e Computacional - Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)
+- 🎯 **Foco Atual:** Explorando projetos matemáticos como parte dos meus estudos de graduação.
+- 🤝 **Aberto a Colaborações em:** Projetos open-source e desafios matemáticos.
+- 🗣️ **Conhecimento em:** Python, Linux e ferramentas *open-source*.
+- 📧 **Entre em Contato:** Acesse-me pelos links nas redes sociais do meu perfil
+- 🌟 **Pronomes:** Ele/Dele.
+- 💻 **Linguagens de Programação:** Python.
 
-- 🔭 **Atualmente trabalhando em:** Projetos matemáticos e computacionais como parte dos meus estudos de graduação.
-- 👯 **Interessado em colaborar em:** Iniciativas open-source e desafios matemáticos.
-- 💬 **Pergunte-me sobre:** Python, Linux e cultura open-source.
-- 📫 **Como me encontrar:** Você pode me encontrar através dos links nas redes sociais acima.
-- 😄 **Pronomes:** Ele/Dele.
-- ⚡ **Linguagens:** Python.
 
 ---
 
@@ -45,3 +47,9 @@
     </td>
   </tr>
 </table>
+
+---
+
+*There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent*
+
+**Raoul Bott, Hungarian-American mathematician**
