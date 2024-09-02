@@ -1,15 +1,32 @@
-# Hello, world! 🌍 
+# Hello, world! 🌍
 
-- **Background:** 21-year-old undergraduate in Applied and Computational Mathematics at USP. 👨‍🎓
-- **Skills Development:** Developing skills in Python and Linux. 🛠️
-- **GitHub:** Tracking programming progress and engaging in projects. 💻
-- **Open Source:** Interested in contributing to open-source and networking with developers. 🌐
-- **Interests:** Enjoy mathematical challenges and see open-source as a learning opportunity. 🧮
+- 🔭 **Currently working on:** Mathematical and computational projects as part of my undergraduate studies.
+- 👯 **Looking to collaborate on:** Open-source initiatives and mathematical challenges.
+- 💬 **Ask me about:** Python, Linux, and open-source culture.
+- 📫 **How to reach me:** You can reach me from the social media links above.
+- 😄 **Pronouns:** He/Him.
+- ⚡ **Languages:** Python.
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/pO4UHglOY2vII/giphy.gif?cid=ecf05e479o0l8n09zeoqjx3zqloxh65hoo7yfozejgzqniyg&rid=giphy.gif&ct=g" width="240" height="180">
+    <img src="https://views.whatilearened.today/views/github/lucasamtaylor01/views.svg" alt="GitHub Views"/>
+    <a href="https://github.com/lucasamtaylor01/">
+        <img src="https://img.shields.io/github/followers/lucasamtaylor01?color=%234CC61E&label=GitHub%20Followers%20%3A" alt="GitHub Followers"/>
+    </a>
+    <a href="https://github.com/lucasamtaylor01?tab=repositories">
+        <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Badge"/>
+    </a>
+    <a href="https://github.com/Naereen/badges">
+        <img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Awesome Badges"/>
+    </a>
+    <a href="mailto:lucasamtaylor01@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Lucas%2C%0A%0AI%20am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub%20profile%20to...">
+        <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything"/>
+    </a>
+    <img src="https://img.shields.io/badge/Os-Debian-a80030" alt="Debian"/>
 </p>
 
----
-
-*"There are two ways to do good maths. The first is to be smarter than everyone else. The second way is to be stupider than everyone else - but persistent."*
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=lucasamtaylor01&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="GitHub Stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lucasamtaylor01" alt="Top Languages"/>
+  </a>
+</p>
