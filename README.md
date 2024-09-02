@@ -7,7 +7,6 @@
 - 🌟 **Pronouns:** He/Him.
 - 💻 **Programming Languages:** Python.
 
-- 
 # Olá, mundo! 🌍
 - 🧑🏽‍🎓 **Curso de graduação:** Matemática Aplicada e Computacional - Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)
 - 🎯 **Foco Atual:** Explorando projetos matemáticos como parte dos meus estudos de graduação.
