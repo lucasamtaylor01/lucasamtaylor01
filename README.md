@@ -6,7 +6,7 @@
 - 📧 **Entre em Contato:** Entre em contato pelos links nas redes sociais do meu perfil
 - 🌟 **Pronomes:** Ele/Dele.
 - 💻 **Linguagens de Programação:** Python.
-- 
+
 # Hello, World! 🌍 
 - 🧑🏽‍🎓 **Undergraduate Program:** Applied and Computational Mathematics - Institute of Mathematics and Statistics at the University of São Paulo (IME-USP)
 - 🎯 **Current Focus:** Exploring mathematical projects as part of my undergraduate studies.
