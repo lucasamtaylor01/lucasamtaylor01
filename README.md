@@ -1,13 +1,4 @@
-# Hello, World! 🌎
-- 🧑🏽‍🎓 **Undergraduate Program:** Applied and Computational Mathematics - Institute of Mathematics and Statistics at the University of São Paulo (IME-USP)
-- 🎯 **Current Focus:** Exploring mathematical projects as part of my undergraduate studies.
-- 🤝 **Open to Collaborations in:** Open-source projects and mathematical challenges.
-- 🗣️ **Knowledge in:** Python, Linux, and open-source tools.
-- 📧 **Contact Me:** Reach out through the links on my profile's social media.
-- 🌟 **Pronouns:** He/Him.
-- 💻 **Programming Languages:** Python.
-
-# Olá, mundo! 🌍
+# Olá, mundo! 🌎
 - 🧑🏽‍🎓 **Curso de graduação:** Matemática Aplicada e Computacional - Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)
 - 🎯 **Foco Atual:** Explorando projetos matemáticos como parte dos meus estudos de graduação.
 - 🤝 **Aberto a Colaborações em:** Projetos open-source e desafios matemáticos.
@@ -15,7 +6,15 @@
 - 📧 **Entre em Contato:** Entre em contato pelos links nas redes sociais do meu perfil
 - 🌟 **Pronomes:** Ele/Dele.
 - 💻 **Linguagens de Programação:** Python.
-
+- 
+# Hello, World! 🌍 
+- 🧑🏽‍🎓 **Undergraduate Program:** Applied and Computational Mathematics - Institute of Mathematics and Statistics at the University of São Paulo (IME-USP)
+- 🎯 **Current Focus:** Exploring mathematical projects as part of my undergraduate studies.
+- 🤝 **Open to Collaborations in:** Open-source projects and mathematical challenges.
+- 🗣️ **Knowledge in:** Python, Linux, and open-source tools.
+- 📧 **Contact Me:** Reach out through the links on my profile's social media.
+- 🌟 **Pronouns:** He/Him.
+- 💻 **Programming Languages:** Python.
 
 ---
 
