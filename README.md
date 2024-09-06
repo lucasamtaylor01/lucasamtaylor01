@@ -12,7 +12,7 @@
 - 🎯 **Foco Atual:** Explorando projetos matemáticos como parte dos meus estudos de graduação.
 - 🤝 **Aberto a Colaborações em:** Projetos open-source e desafios matemáticos.
 - 🗣️ **Conhecimento em:** Python, Linux e ferramentas *open-source*.
-- 📧 **Entre em Contato:** Acesse-me pelos links nas redes sociais do meu perfil
+- 📧 **Entre em Contato:** Entre em contato pelos links nas redes sociais do meu perfil
 - 🌟 **Pronomes:** Ele/Dele.
 - 💻 **Linguagens de Programação:** Python.
 
