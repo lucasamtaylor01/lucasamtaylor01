@@ -30,9 +30,6 @@
     <a href="https://github.com/Naereen/badges">
         <img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Awesome Badges"/>
     </a>
-    <a href="mailto:lucasamtaylor01@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Lucas%2C%0A%0AI%20am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub%20profile%20to...">
-        <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything"/>
-    </a>
     <img src="https://img.shields.io/badge/Os-Debian-a80030" alt="Debian"/>
 </p>
 
