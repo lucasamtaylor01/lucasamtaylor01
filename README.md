@@ -1,13 +1,4 @@
-# Olá, mundo! 🌎
-- 🧑🏽‍🎓 **Curso de graduação:** Matemática Aplicada e Computacional - Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)
-- 🎯 **Foco Atual:** Explorando projetos matemáticos como parte dos meus estudos de graduação.
-- 🤝 **Aberto a Colaborações em:** Projetos open-source e desafios matemáticos.
-- 🗣️ **Conhecimento em:** Python, Linux e ferramentas *open-source*.
-- 📧 **Entre em Contato:** Entre em contato pelos links nas redes sociais do meu perfil
-- 🌟 **Pronomes:** Ele/Dele.
-- 💻 **Linguagens de Programação:** Python.
-
-# Hello, World! 🌍 
+# Hello, World! 🌎 
 - 🧑🏽‍🎓 **Undergraduate Program:** Applied and Computational Mathematics - Institute of Mathematics and Statistics at the University of São Paulo (IME-USP)
 - 🎯 **Current Focus:** Exploring mathematical projects as part of my undergraduate studies.
 - 🤝 **Open to Collaborations in:** Open-source projects and mathematical challenges.
@@ -17,20 +8,6 @@
 - 💻 **Programming Languages:** Python.
 
 ---
-
-<p align="center">
-    <img src="https://views.whatilearened.today/views/github/lucasamtaylor01/views.svg" alt="GitHub Views"/>
-    <a href="https://github.com/lucasamtaylor01/">
-        <img src="https://img.shields.io/github/followers/lucasamtaylor01?color=%234CC61E&label=GitHub%20Followers%20%3A" alt="GitHub Followers"/>
-    </a>
-    <a href="https://github.com/lucasamtaylor01?tab=repositories">
-        <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Badge"/>
-    </a>
-    <a href="https://github.com/Naereen/badges">
-        <img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Awesome Badges"/>
-    </a>
-    <img src="https://img.shields.io/badge/Os-Debian-a80030" alt="Debian"/>
-</p>
 
 <table align="center">
   <tr>
