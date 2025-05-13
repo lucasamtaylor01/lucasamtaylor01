@@ -4,7 +4,6 @@
 - 🎯 **Foco Atual:** Análise de dados, cursando na [EBAC](https://ebaconline.com.br/cientista-de-dados)
 - 🗣️ **Conhecimentos em:** Matemática, Estatística, Python e Linux
 - 📧 **Contato:** Entre em contato pelos links nas redes sociais do meu perfil.
-- 🌟 **Pronomes:** Ele/Dele
 - 💻 **Linguagens de Programação:** Python
 
 
@@ -15,7 +14,6 @@
 - 🎯 **Current Focus:** Data analysis, studying at [EBAC](https://ebaconline.com.br/about-us)
 - 🗣️ **Knowledge in:** Mathematics, Statistics, Python and Linux
 - 📧 **Contact Me:** Reach out through the links on my profile's social media.
-- 🌟 **Pronouns:** He/Him.
 - 💻 **Programming Languages:** Python.
 
 ---
