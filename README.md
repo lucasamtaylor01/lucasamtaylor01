@@ -18,6 +18,6 @@
 
 ---
 
-“Yes, some people are brighter than others but I really believe that most people can really get to quite a good level in mathematics if they’re prepared to deal with these psychological issues of how to handle the situation of being stuck”
+“_Yes, some people are brighter than others but I really believe that most people can really get to quite a good level in mathematics if they’re prepared to deal with these psychological issues of how to handle the situation of being stuck_”
 
 — **Andrew Wiles**
