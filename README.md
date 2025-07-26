@@ -6,6 +6,7 @@
 
 ---
 
-“_Yes, some people are brighter than others but I really believe that most people can really get to quite a good level in mathematics if they’re prepared to deal with these psychological issues of how to handle the situation of being stuck_”
+“There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else -- but persistent.”
 
-— **Andrew Wiles**
+― **Raoul Bott**
+
