@@ -3,4 +3,3 @@
 - 🎯 **Current Focus:** Data analysis and machine learning applications
 - 🧠 **Knowledge in:** Mathematics, Statistics, Data Analysis and Machine Learning
 - 📚 **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- 💻 **Main Programming Languages:** Python
